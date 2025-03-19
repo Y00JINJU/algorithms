@@ -1,3 +1,8 @@
+# 다익스트라 알고리즘 
+# DP 와 비슷함 
+# 최단거리는 여러 거리의 최단 거리로 이루어짐. 
+# 가중치가 있음 
+
 import heapq
 
 def dijkstra(graph, start):

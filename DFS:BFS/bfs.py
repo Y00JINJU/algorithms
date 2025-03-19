@@ -1,3 +1,6 @@
+# 너비 우선 탐색 
+# 주로 두 노드 사이에서 최단 경로 알고 싶을 때
+
 
 def bfs(graph, node):
     need_visited, visited = list(), list()
